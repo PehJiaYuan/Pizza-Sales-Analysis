@@ -217,7 +217,8 @@ __12) Top 5 Pizzas by Total Orders__
         GROUP BY pizza_name
         ORDER BY Total_Orders DESC;
 
-<div align="left"><img src="images/top_5_by_orders"/></div>
+<div align="left"><img src="images/top_5_by_orders.png"/></div>
+
 
 Identifying the top 5 pizzas by total orders sheds light on the most frequently ordered pizza varieties. This information helps in understanding customer 
 behavior and preferences, enabling businesses to tailor marketing campaigns and menu offerings to meet customer demand effectively.
@@ -229,7 +230,7 @@ behavior and preferences, enabling businesses to tailor marketing campaigns and 
         GROUP BY pizza_name
         ORDER BY Total_Orders ASC;
 
-<div align="left"><img src="images/bottom_5_by_orders"/></div>
+<div align="left"><img src="images/bottom_5_by_orders.png"/></div>
 
 Identifying the bottom 5 pizzas by total orders reveals less popular or niche pizza options that may require attention or adjustments. Understanding these trends allows businesses to make informed decisions regarding menu adjustments, promotional strategies, or inventory management to optimize sales and customer satisfaction.
 
