@@ -1,10 +1,6 @@
 <div align="center"> <h1>Pizza Sales Analysis Project</h1></div>
 
-<div align="center">
-    
-![image]
-
-</div>     
+<center><img src="images/nlp.png"/></center>
 
 
 ----
