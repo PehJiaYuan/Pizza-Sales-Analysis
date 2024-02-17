@@ -203,7 +203,8 @@ __11) Bottom 5 Pizzas by Quantity__
         GROUP BY pizza_name
         ORDER BY SUM(quantity) ASC;
 
-<div align="left"><img src="images/worst_sellers"/></div>
+<div align="left"><img src="images/worst_sellers.png"/></div>
+
 
 
 Conversely, identifying the bottom 5 pizzas by quantity sold highlights less popular or underperforming pizza options. This insight can inform menu 
