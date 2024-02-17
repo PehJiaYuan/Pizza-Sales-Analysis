@@ -1,6 +1,6 @@
 <div align="center"> <h1>Pizza Sales Analysis Project</h1></div>
 
-<center><img src="images/pizza_slice.png"/></center>
+<div align="center"><img src="images/pizza_slice.png"/></div>
 
 
 ----
