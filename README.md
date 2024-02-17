@@ -1,7 +1,7 @@
 <div align="center"> <h1>Pizza Sales Analysis Project</h1></div>
 
 <div align="center">
-  <imsrc="images/pizza_slice.png" style="width: 200px;">
+  <img="images/pizza_slice.png" style="width: 200px;">
 </div>
 
 
