@@ -149,7 +149,7 @@ __7) Total Pizzas Sold by Pizza Category__
         ORDER BY Total_Pizzas_Sold DESC;
 
 
-<div align="left"><img src="images/percentage_pizza_sold_category.png"/></div>
+<div align="left"><img src="images/total_pizza_sold_category.png"/></div>
 
 The chart illustrating the total number of pizzas sold for each pizza category enables comparison of sales performance across different categories. This 
 visualization helps in identifying popular and less popular pizza options, informing marketing strategies and menu adjustments accordingly.
