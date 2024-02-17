@@ -1,5 +1,4 @@
-# Pizza-Sales-Analysis Project
-<div align="center"> <h1>Pizza Sales Analysis</h1></div>
+<div align="center"> <h1>Pizza Sales Analysis Project</h1></div>
 
 <div align="center">
     
