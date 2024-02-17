@@ -74,7 +74,7 @@ identifying trends in customer behavior. It provides a basis for assessing busin
     
         SELECT CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) / 
         CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS DECIMAL(10,2))
-        AS Avg_Pizzas_per_order
+        AS Avg_Pizzas_Per_Order
         FROM pizza_sales
         
 ![image]
@@ -113,7 +113,7 @@ __4) Hourly Trend for Total Orders__
 
 __5) Percentage of Sales by Pizza Category__
 
-        SELECT pizza_category, CAST(SUM(total_price) AS DECIMAL(10,2)) AS Total_Sales, CAST(SUM(total_price)*100/
+        SELECT pizza_category AS Pizza_Category, CAST(SUM(total_price) AS DECIMAL(10,2)) AS Total_Sales, CAST(SUM(total_price)*100/
         (SELECT SUM(total_price) FROM pizza_sales WHERE MONTH(order_date) = 1) AS DECIMAL(10,2)) AS Percentage_Total_Sales
         FROM pizza_sales as Total_Sales
         WHERE MONTH(order_date) = 1
@@ -126,7 +126,7 @@ insight informs menu optimization strategies, marketing campaigns, and inventory
 
  __6) Percentage of Sales by Pizza Size__
 
-        SELECT pizza_size, CAST(SUM(total_price) AS DECIMAL(10,2))AS Total_Sales, CAST(SUM(total_price)*100/
+        SELECT pizza_size AS Pizza_Size, CAST(SUM(total_price) AS DECIMAL(10,2))AS Total_Sales, CAST(SUM(total_price)*100/
         (SELECT SUM(total_price) FROM pizza_sales) AS DECIMAL(10,2))AS Percentage_Total_Sales
         FROM pizza_sales as Total_Sales
         GROUP BY pizza_size
