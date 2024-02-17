@@ -8,7 +8,7 @@
 
 ----
 
-__Tools used : Excel,MS SQL Server,Tableau,Power BI__
+__Tools used : Excel, MS SQL Server, Tableau, Power BI__
 
 
 __Business Problem Scenario__
