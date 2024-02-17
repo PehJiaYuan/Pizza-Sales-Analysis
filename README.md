@@ -1,4 +1,4 @@
-![image](https://github.com/PehJiaYuan/Pizza-Sales-Analysis/assets/160102531/fede31d6-9cd8-4178-af6c-299a68e29f97)<div align="center"> <h1>Pizza Sales Analysis Project</h1></div>
+ <div>Pizza Sales Analysis Project</></div>
 
 <div align="center">
   <img src="images/pizza_slice.png" style="width: 200px;">
