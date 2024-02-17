@@ -1,7 +1,7 @@
 <div align="center"> <h1>Pizza Sales Analysis Project</h1></div>
 
 <div align="center">
-  <img src="images/pizza_slice.png" style="width: 200px;">
+  <imsrc="images/pizza_slice.png" style="width: 200px;">g 
 </div>
 
 
@@ -33,7 +33,7 @@ __1) What are the Key Performance Indicators obtained from the Dataset?__
       AS Total_Revenue
       FROM pizza_sales;
    
-![image]
+<div align="center"><img src="images/total_revenue.png"/></div>
 
 This metric provides a clear measure of the overall financial performance of pizza sales. It indicates the total amount of money generated from pizza 
 orders over a specific period, reflecting the revenue potential of your
