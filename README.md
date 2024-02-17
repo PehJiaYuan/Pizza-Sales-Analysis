@@ -4,7 +4,7 @@
   <img src="images/pizza_slice.png" style="width: 200px;">
 </div>
 
-
+[![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/peh.jia.yuan/vizzes)
 
 ----
 
