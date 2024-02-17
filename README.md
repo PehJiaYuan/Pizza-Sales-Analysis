@@ -1,4 +1,4 @@
- <div align="centre"><h1>Pizza Sales Analysis Project</h1></div>
+ <div align="center"><h1>Pizza Sales Analysis Project</h1></div>
 
 <div align="center">
   <img src="images/pizza_slice.png" style="width: 200px;">
