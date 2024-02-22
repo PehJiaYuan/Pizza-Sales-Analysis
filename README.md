@@ -9,6 +9,7 @@
 __Tools used : Excel, MS SQL Server, Tableau, Power BI__
 
 Dashboard: [![View on Tableau Public](https://img.shields.io/badge/Tableau_Public-View_on_Tableau_Public-blue?logo=Tableau)](https://public.tableau.com/app/profile/peh.jia.yuan/vizzes)
+[![View PowerBi PDF](https://img.shields.io/badge/PowerBI-blue?logo=PowerBI)]()
 
 __Business Problem Scenario__
 -------
