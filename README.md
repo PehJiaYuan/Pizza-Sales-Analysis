@@ -20,6 +20,14 @@ __Solution Plan__
   + To help address the operational challenges faced by the business, I will utilize SQL to perform data wrangling and extract key performance metrics(KPI) from their sales data csv file. Leveraging on SQL functions, I can uncover crucial KPIs such as hourly and weekly trend for total pizza orders, percentage sales by pizza category and size as well as identifying the best and worst selling menu items. Data cleaning, data transformation and analysis will be performed.
   + After extracting the KPIs, I will leverage on Microsoft Power BI/Tableau to present the findings. The goal is to create interactive and dynamic dashboards which showcases sales trends, order patterns and menu performnace through relevant graphs and charts. This will allow the stakeholders of the pizza company to gain actionable insights, facilitating strategic decisions to enhance operations and overall profitability of the business.
 
+__Conclusion__
+---------
+
+By doing a comprehensive analysis on the pizza sales dataset, a comprehensive understanding of consumer behavior and prevailing market trends has been achieved. The analysis unveiled crucial insights, notably identifying peak and off-peak periods based on hourly,daily and monthly order trends. With this knowledge the businesses will be abple to stratgically optimize staffing and inventory management, aligning resources with varying demand levels effectively. Furthermore, the examination of sales distribution across different pizza categories shed light on customer preferences, providing valuable input for menu refinement and targeted marketing strategies to elevate sales performance.
+
+Additionally, the calculation of the average number of pizzas sold per order provided key insights into consumer behavior and consumption patterns. This enables the business to tailor pricing strategies and portion sizes to maximize profitability while ensuring customer satisfaction. Overall, this comprehensive analysis serves as a catalyst for data-driven decision-making, enabling the pizza establishment to fine-tune operations and elevate the overall customer experience. These strategic moves are pivotal for sustained success in the competitive pizza market.
+
+
 __Execution__
 ---------
 
@@ -228,10 +236,3 @@ Businesses can use this information to tailor marketing efforts, providing perso
 <div align="left"><img src="images/bottom_5_by_orders.png"/></div>
 
 Analyzing the bottom pizzas by customer ID reveals the pizzas that are ordered less frequently, offering insights into less popular choices among customers. Understanding less preferred pizzas can guide businesses in adjusting their menu, introducing new options, or improving existing recipes to better meet customer expectations.
-
-__Conclusion__
----------
-
-By doing a comprehensive analysis on the pizza sales dataset, a comprehensive understanding of consumer behavior and prevailing market trends has been achieved. The analysis unveiled crucial insights, notably identifying peak and off-peak periods based on hourly,daily and monthly order trends. With this knowledge the businesses will be abple to stratgically optimize staffing and inventory management, aligning resources with varying demand levels effectively. Furthermore, the examination of sales distribution across different pizza categories shed light on customer preferences, providing valuable input for menu refinement and targeted marketing strategies to elevate sales performance.
-
-Additionally, the calculation of the average number of pizzas sold per order provided key insights into consumer behavior and consumption patterns. This enables the business to tailor pricing strategies and portion sizes to maximize profitability while ensuring customer satisfaction. Overall, this comprehensive analysis serves as a catalyst for data-driven decision-making, enabling the pizza establishment to fine-tune operations and elevate the overall customer experience. These strategic moves are pivotal for sustained success in the competitive pizza market.
